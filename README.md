@@ -1,2 +1,3 @@
 # hello_world
-my first project in GitHub
+This is my first project in GitHub.
+It's both interesting and exciting!
